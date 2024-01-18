@@ -45,10 +45,12 @@ Remember to replace 'YOUR_NEW_REFRESH_TOKEN' with the actual token you obtain fr
 Questrade Account Numbers
 To run this project, you will need to obtain your Questrade account numbers. Once you have your account numbers, you should set them as environment variables in your project. This is essential for retrieving account-specific positions for TFSA and RRSP portfolios.
 
-You can set the account numbers in your code as follows:
+You can set the account numbers in your code as follows
 
+```bash
 positions_1 = q.account_positions('YOUR_ACCOUNT_NUMBER_1')
 positions_2 = q.account_positions('YOUR_ACCOUNT_NUMBER_2')
+```
 
 Replace 'YOUR_ACCOUNT_NUMBER_1' and 'YOUR_ACCOUNT_NUMBER_2' with your actual account numbers from Questrade.
 
