@@ -1,0 +1,6 @@
+questrade-api==<latest_version>
+numpy==<latest_version>
+pandas==<latest_version>
+matplotlib==<latest_version>
+riskfolio-lib==<latest_version>
+yfinance==<latest_version>
