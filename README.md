@@ -32,7 +32,7 @@ Open the Jupyter Notebook (MPT Portfolio Optimization.ipynb) in your Jupyter env
 
 To interact with Questrade's API, you need a valid token. Tokens can expire, so you may need to regenerate them occasionally.
 
-Regenerate the token by visiting: Questrade Token Generation.
+Regenerate the token by visiting: [Questrade Token Generation](https://apphub.questrade.com/UI/UserApps.aspx).
 
 Update the token in your code:
 
