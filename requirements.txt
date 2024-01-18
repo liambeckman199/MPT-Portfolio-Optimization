@@ -1,6 +1,6 @@
-questrade-api==<latest_version>
-numpy==<latest_version>
-pandas==<latest_version>
-matplotlib==<latest_version>
-riskfolio-lib==<latest_version>
-yfinance==<latest_version>
+questrade-api==1.0.3
+numpy==1.20.3
+pandas==1.5.0
+matplotlib==3.8.2
+riskfolio-lib==5.0.0
+yfinance==0.2.3
